@@ -6,7 +6,6 @@
 
 - ### [Create A Repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
-    - repo name: stage2townhome
 --- 
 
 # Material for MkDocs
