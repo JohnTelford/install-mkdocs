@@ -1,6 +1,13 @@
+draft 1 2023-12-11 16:28:35
+2023-12-11
+2023-12-11 16:31:01
+>
+
+// Last modified: 
+
 # Install mkdocs
 
-- ### [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
+- ### [vGit and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
 - ### [GitHub Account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github)
 
