@@ -1,11 +1,7 @@
-draft 1 2023-12-11 16:28:35
-2023-12-11
-2023-12-11 16:31:01
->
-
-// Last modified: 
 
 # Install mkdocs
+
+Draft 1 2023-12-12
 
 - ### [vGit and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 
